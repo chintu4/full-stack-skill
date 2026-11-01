@@ -34,3 +34,4 @@ Keep clients updated with progress reports, demos, and feedback loops. Transpare
 After launch, monitor performance and suggest improvements to keep the project future-ready.
 
 ensure image asserts in webp and video in webm
+check more rules in search engine "golden rules while building frontend app"
